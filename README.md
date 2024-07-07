@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Di-s-h-a
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning game development and data science
+- 🌱 I’m currently learning basics of development and data science
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me : vdisha2006@gmail.com
 
